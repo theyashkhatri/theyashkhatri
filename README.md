@@ -30,7 +30,7 @@ My research on ML-based carbon sequestration estimation was **published in JRPS 
 
 |  |  |  |
 |:---:|:---:|:---:|
-| 🏢 **Role** <br/> Data Engineer @ Edverciity | 🎓 **Graduate Study** <br/> M.Tech, BITS Pilani (WILP) | ☁️ **Certified** <br/> OCI Generative AI Professional |
+| 🏢 **Role** <br/> Data Engineer @ Edverciity | 🎓 **Graduate Study** <br/> M.Tech, BITS Pilani (WILP) | ☁️ **Certified** <br/> OCI AI & Generative AI Professional |
 | 📄 **Published** <br/> JRPS, March 2025 | 🤝 **Leadership** <br/> President, Rotaract Club Nagpur | 📍 **Based in** <br/> Nagpur, Maharashtra |
 
 </div>
