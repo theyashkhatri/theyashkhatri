@@ -1,14 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5ED,100:2193B0&height=220&section=header&text=Hi%2C%20I'm%20Yash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20AI%2FML%20Practitioner%20%C2%B7%20Published%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5ED,100:2193B0&height=240&section=header&text=Hi%2C%20I'm%20Yash&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%C2%B7%20AI%2FML%20Practitioner%20%C2%B7%20Published%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2193B0&center=true&vCenter=true&width=650&lines=Building+scalable+data+pipelines;Applied+Generative+AI+%26+RAG+systems;M.Tech+Data+Science+%40+BITS+Pilani;OCI+Certified+Generative+AI+Professional" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2193B0&center=true&vCenter=true&width=650&lines=Building+scalable+data+pipelines;Applied+Generative+AI+%26+RAG+systems;M.Tech+Data+Science+%40+BITS+Pilani;OCI+Certified+Generative+AI+Professional" alt="Typing SVG" />
+<!--
+Add your real links below by replacing YOUR_LINKEDIN / YOUR_WEBSITE / YOUR_EMAIL, then uncomment:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Website](https://img.shields.io/badge/Website-2193B0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE)
+[![Email](https://img.shields.io/badge/Email-6DD5ED?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL)
+-->
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,tensorflow,docker,aws,git&theme=light" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,tensorflow,docker,aws,git&theme=light" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6DD5ED,100:2193B0&height=3&width=1000" width="100%"/>
 
 </div>
 
@@ -16,7 +25,7 @@
 
 ## 🌊 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="260">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
 
 I'm a **Data Engineer at Edverciity** (by LiveTechSkills), where I design and maintain reliable ETL/ELT pipelines and applied ML/AI systems.
 
@@ -30,9 +39,15 @@ My research on ML-based carbon sequestration estimation was **published in JRPS 
 
 |  |  |  |
 |:---:|:---:|:---:|
-| 🏢 **Role** <br/> Data Engineer @ Edverciity | 🎓 **Graduate Study** <br/> M.Tech, BITS Pilani (WILP) | ☁️ **Certified** <br/> OCI AI & Generative AI Professional |
+| 🏢 **Role** <br/> Data Engineer @ Edverciity | 🎓 **Graduate Study** <br/> M.Tech, BITS Pilani (WILP) | ☁️ **Certified** <br/> OCI Generative AI Professional |
 | 📄 **Published** <br/> JRPS, March 2025 | 🤝 **Leadership** <br/> President, Rotaract Club Nagpur | 📍 **Based in** <br/> Nagpur, Maharashtra |
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2193B0,100:6DD5ED&height=3&width=1000" width="100%"/>
 </div>
 
 <br/>
@@ -65,6 +80,12 @@ My research on ML-based carbon sequestration estimation was **published in JRPS 
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6DD5ED,100:2193B0&height=3&width=1000" width="100%"/>
 </div>
 
 <br/>
@@ -122,21 +143,32 @@ Predictive model supporting efficient, data-driven water resource management.
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2193B0,100:6DD5ED&height=3&width=1000" width="100%"/>
+</div>
+
+<br/>
+
+<!--
+GitHub stats widgets — replace YOUR_GITHUB_USERNAME with your actual username to activate:
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2193B0&icon_color=6DD5ED&text_color=333333" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=2193B0&fire=6DD5ED&currStreakLabel=2193B0" width="48%"/>
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=2193B0&line=6DD5ED&point=2193B0" width="97%"/>
+</div>
+-->
+
 ## 📫 Let's Connect
 
 <div align="center">
 
 Open to conversations on data engineering, applied AI, and collaboration opportunities.
-<!--
-Uncomment and fill in once you have your links:
--->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theyaashkhatri/)
-[![Email](https://img.shields.io/badge/Email-2193B0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@theyashkhatri.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6DD5ED?style=for-the-badge&logo=vercel&logoColor=black)](https://theyashkhatri.dev/)
-
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193B0,100:6DD5ED&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193B0,100:6DD5ED&height=120&section=footer" width="100%"/>
 
 </div>
