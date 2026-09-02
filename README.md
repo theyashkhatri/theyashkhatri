@@ -1,115 +1,142 @@
 <div align="center">
 
-# Hi! I'm Yash.
-
-### Data Engineer · AI/ML Practitioner · Published Researcher
-
-Building scalable data pipelines and applied AI systems — bridging robust data engineering with modern generative AI.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5ED,100:2193B0&height=220&section=header&text=Hi%2C%20I'm%20Yash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20AI%2FML%20Practitioner%20%C2%B7%20Published%20Researcher&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![OCI](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2193B0&center=true&vCenter=true&width=650&lines=Building+scalable+data+pipelines;Applied+Generative+AI+%26+RAG+systems;M.Tech+Data+Science+%40+BITS+Pilani;OCI+Certified+Generative+AI+Professional" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,tensorflow,docker,aws,git&theme=light" />
 
 </div>
 
----
+<br/>
 
-## 👤 Profile
+## 🌊 About Me
 
-I'm a **Data Engineer at Edverciity** (by LiveTechSkills), focused on building reliable ETL/ELT pipelines and applied ML/AI systems. Alongside my professional work, I'm advancing my expertise through an **M.Tech in Data Science & Engineering at BITS Pilani** (WILP program), and I hold the **OCI 2025 Certified Generative AI Professional** credential.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="260">
 
-My research on ML-based carbon sequestration estimation was **published in JRPS (March 2025)**, and I lead community impact as **President of the Rotaract Club of Nagpur** — a role that sharpened the stakeholder management and leadership skills I bring to cross-functional technical work.
+I'm a **Data Engineer at Edverciity** (by LiveTechSkills), where I design and maintain reliable ETL/ELT pipelines and applied ML/AI systems.
 
-| | |
-|---|---|
-| 🏢 **Current Role** | Data Engineer, Edverciity (by LiveTechSkills) |
-| 🎓 **Graduate Study** | M.Tech, Data Science & Engineering — BITS Pilani (WILP) |
-| 🎓 **Undergraduate** | B.Tech, AI & Data Science — RTMNU Nagpur (CGPA 8.10, Merit Award '23–24) |
-| ☁️ **Certification** | OCI 2025 Certified Generative AI Professional |
-| 📄 **Publication** | JRPS, March 2025 — ML for Carbon Sequestration Estimation |
-| 🤝 **Leadership** | President, Rotaract Club of Nagpur |
-| 📍 **Location** | Nagpur, Maharashtra, India |
+Alongside my professional work, I'm pursuing an **M.Tech in Data Science & Engineering at BITS Pilani** (WILP program), and I hold the **OCI 2025 Certified Generative AI Professional** credential.
 
----
+My research on ML-based carbon sequestration estimation was **published in JRPS (March 2025)**, and I serve as **President of the Rotaract Club of Nagpur** — leading community initiatives alongside my technical work.
 
-## 🧠 Technical Expertise
+<br clear="right"/>
+
+<div align="center">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| 🏢 **Role** <br/> Data Engineer @ Edverciity | 🎓 **Graduate Study** <br/> M.Tech, BITS Pilani (WILP) | ☁️ **Certified** <br/> OCI Generative AI Professional |
+| 📄 **Published** <br/> JRPS, March 2025 | 🤝 **Leadership** <br/> President, Rotaract Club Nagpur | 📍 **Based in** <br/> Nagpur, Maharashtra |
+
+</div>
+
+<br/>
+
+## 🧠 Technical Toolkit
+
+<div align="center">
 
 **Data Engineering**
-Apache Airflow · Apache Spark · Hadoop · ETL/ELT Pipeline Design · MySQL · PostgreSQL · MongoDB
+<br/>
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **AI / Machine Learning**
-LangChain · RAG Pipelines · LLM Application Development · TensorFlow · Scikit-learn · Pandas · NumPy
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Analytics & Visualization**
-Power BI · Tableau
+**Cloud, Tools & Visualization**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**Cloud & Infrastructure**
-AWS · Oracle Cloud Infrastructure (OCI) · Docker · REST APIs · Git
+</div>
 
----
+<br/>
 
 ## 💼 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
+<div>
 
-**🤖 AI-Powered Code Reviewer**
-Multi-agent automated code review system built on LangGraph, orchestrating specialized agents for review workflows.
+### 🤖 AI-Powered Code Reviewer
+Multi-agent automated code review system built on **LangGraph**, orchestrating specialized agents across the review workflow.
 
+</div>
 </td>
 <td width="50%" valign="top">
+<div>
 
-**🌱 Carbon Sequestration Estimation System**
-ML-based system for estimating carbon sequestration; research findings peer-reviewed and published in JRPS.
+### 🌱 Carbon Sequestration Estimation
+ML-based system for estimating carbon sequestration — research **peer-reviewed and published in JRPS**.
 
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<div>
 
-**🔍 AuthenticPlag AI**
+### 🔍 AuthenticPlag AI
 AI-driven tool for detecting plagiarism and verifying content authenticity.
 
+</div>
 </td>
 <td width="50%" valign="top">
+<div>
 
-**💧 Optimal Water Usage Prediction**
+### 💧 Optimal Water Usage Prediction
 Predictive model supporting efficient, data-driven water resource management.
 
+</div>
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 ## 🎯 Focus Areas
 
-`Data Pipeline Architecture` · `Applied Generative AI` · `RAG Systems` · `ML for Sustainability` · `Reinforcement Learning`
+<div align="center">
 
----
+`Data Pipeline Architecture` &nbsp;·&nbsp; `Applied Generative AI` &nbsp;·&nbsp; `RAG Systems` &nbsp;·&nbsp; `ML for Sustainability` &nbsp;·&nbsp; `Reinforcement Learning`
 
-## 📫 Connect
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
 
 Open to conversations on data engineering, applied AI, and collaboration opportunities.
 
 <!--
-Add your links to complete this section — replace the placeholders below:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](your-portfolio-url)
+Uncomment and fill in once you have your links:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-2193B0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6DD5ED?style=for-the-badge&logo=vercel&logoColor=black)](your-portfolio-url)
 -->
 
-<div align="center">
+<br/><br/>
 
-<sub>Thanks for stopping by — always happy to connect on data, AI, and everything in between.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193B0,100:6DD5ED&height=100&section=footer" width="100%"/>
 
 </div>
