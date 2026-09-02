@@ -151,15 +151,14 @@ Predictive model supporting efficient, data-driven water resource management.
 
 <!--
 GitHub stats widgets — replace YOUR_GITHUB_USERNAME with your actual username to activate:
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2193B0&icon_color=6DD5ED&text_color=333333" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=2193B0&fire=6DD5ED&currStreakLabel=2193B0" width="48%"/>
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=2193B0&line=6DD5ED&point=2193B0" width="97%"/>
-</div>
 -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=theyashkhatri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2193B0&icon_color=6DD5ED&text_color=333333" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theyashkhatri&theme=tokyonight&hide_border=true&background=00000000&ring=2193B0&fire=6DD5ED&currStreakLabel=2193B0" width="48%"/>
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theyashkhatri&theme=react-dark&hide_border=true&bg_color=00000000&color=2193B0&line=6DD5ED&point=2193B0" width="97%"/>
+</div>
 
 ## 📫 Let's Connect
 
