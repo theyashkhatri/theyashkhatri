@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yash
+# Hi! I'm Yash.
 
 ### Data Engineer · AI/ML Practitioner · Published Researcher
 
