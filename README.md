@@ -6,10 +6,12 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-2193B0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theyashkhatri.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theyaashkhatri/)
-
-<br/>
+<!--
+Add your real links below by replacing YOUR_LINKEDIN / YOUR_WEBSITE / YOUR_EMAIL, then uncomment:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Website](https://img.shields.io/badge/Website-2193B0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE)
+[![Email](https://img.shields.io/badge/Email-6DD5ED?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL)
+-->
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,tensorflow,docker,aws,git&theme=light" />
 
@@ -147,37 +149,22 @@ Predictive model supporting efficient, data-driven water resource management.
 
 <br/>
 
-## 📊 GitHub Activity
-
+<!--
+GitHub stats widgets — replace YOUR_GITHUB_USERNAME with your actual username to activate:
+-->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=theyashkhatri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2193B0&icon_color=6DD5ED&text_color=333333" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theyashkhatri&theme=tokyonight&hide_border=true&background=00000000&ring=2193B0&fire=6DD5ED&currStreakLabel=2193B0" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theyashkhatri&theme=react-dark&hide_border=true&bg_color=00000000&color=2193B0&line=6DD5ED&point=2193B0" width="97%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=theyashkhatri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2193B0&icon_color=6DD5ED&text_color=333333" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theyashkhatri&theme=tokyonight&hide_border=true&background=00000000&ring=2193B0&fire=6DD5ED&currStreakLabel=2193B0" width="50%"/>
 </div>
-
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6DD5ED,100:2193B0&height=3&width=1000" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theyashkhatri&theme=react-dark&hide_border=true&bg_color=00000000&color=2193B0&line=6DD5ED&point=2193B0" width="95%"/>
 </div>
-
-<br/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
 Open to conversations on data engineering, applied AI, and collaboration opportunities.
-
-<br/>
-
-[![Website](https://img.shields.io/badge/Website-2193B0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theyashkhatri.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theyaashkhatri/)
 
 <br/><br/>
 
