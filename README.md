@@ -1,57 +1,115 @@
-# Hi, I'm Yash 👋
+<div align="center">
 
-**Data Engineer | AI/ML Enthusiast | Data Science Grad Student**
+# Yash
 
-I build data pipelines and AI-powered systems — from large-scale ETL/ELT workflows to LLM-driven applications — and I'm currently deepening that foundation through graduate study in data science.
+### Data Engineer · AI/ML Practitioner · Published Researcher
+
+Building scalable data pipelines and applied AI systems — bridging robust data engineering with modern generative AI.
+
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![OCI](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 👤 Profile
 
-- 💼 Data Engineer at **Edverciity** (by LiveTechSkills), where I work on data pipelines, ETL/ELT workflows, and applied ML/AI systems
-- 🎓 Pursuing an **M.Tech in Data Science & Engineering** at **BITS Pilani** (WILP program)
-- 🎓 B.Tech in **AI & Data Science** from RTMNU Nagpur University (CGPA 8.10, Merit Award 2023–24)
-- ☁️ **OCI 2025 Certified Generative AI Professional**
-- 📄 Published researcher — my work on ML-based carbon sequestration estimation appeared in JRPS (March 2025)
-- 🤝 President of the **Rotaract Club of Nagpur**, and previously led the FOR-AIM & Young Inspirator Network Club during undergrad
-- 🌱 Always exploring the intersection of data engineering, generative AI, and reinforcement learning
+I'm a **Data Engineer at Edverciity** (by LiveTechSkills), focused on building reliable ETL/ELT pipelines and applied ML/AI systems. Alongside my professional work, I'm advancing my expertise through an **M.Tech in Data Science & Engineering at BITS Pilani** (WILP program), and I hold the **OCI 2025 Certified Generative AI Professional** credential.
+
+My research on ML-based carbon sequestration estimation was **published in JRPS (March 2025)**, and I lead community impact as **President of the Rotaract Club of Nagpur** — a role that sharpened the stakeholder management and leadership skills I bring to cross-functional technical work.
+
+| | |
+|---|---|
+| 🏢 **Current Role** | Data Engineer, Edverciity (by LiveTechSkills) |
+| 🎓 **Graduate Study** | M.Tech, Data Science & Engineering — BITS Pilani (WILP) |
+| 🎓 **Undergraduate** | B.Tech, AI & Data Science — RTMNU Nagpur (CGPA 8.10, Merit Award '23–24) |
+| ☁️ **Certification** | OCI 2025 Certified Generative AI Professional |
+| 📄 **Publication** | JRPS, March 2025 — ML for Carbon Sequestration Estimation |
+| 🤝 **Leadership** | President, Rotaract Club of Nagpur |
+| 📍 **Location** | Nagpur, Maharashtra, India |
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages & Core**
-`Python` · `SQL`
+## 🧠 Technical Expertise
 
 **Data Engineering**
-`Apache Airflow` · `Spark` · `Hadoop` · `ETL/ELT` · `MySQL` · `PostgreSQL` · `MongoDB`
+Apache Airflow · Apache Spark · Hadoop · ETL/ELT Pipeline Design · MySQL · PostgreSQL · MongoDB
 
-**AI / ML**
-`LangChain` · `RAG Pipelines` · `LLMs` · `TensorFlow` · `Scikit-learn` · `Pandas` · `NumPy`
+**AI / Machine Learning**
+LangChain · RAG Pipelines · LLM Application Development · TensorFlow · Scikit-learn · Pandas · NumPy
 
-**Visualization & Tools**
-`Power BI` · `Tableau` · `REST APIs` · `Docker` · `Git`
+**Analytics & Visualization**
+Power BI · Tableau
 
-**Cloud**
-`AWS` · `OCI`
-
----
-
-### 🔭 Featured Projects
-
-- **AI-Powered Code Reviewer** — Multi-agent code review system built with LangGraph
-- **Carbon Sequestration Estimation System** — ML-based estimation model; findings published in JRPS
-- **AuthenticPlag AI** — AI-driven plagiarism/authenticity detection tool
-- **Optimal Water Usage Prediction** — Predictive modeling for efficient water resource management
+**Cloud & Infrastructure**
+AWS · Oracle Cloud Infrastructure (OCI) · Docker · REST APIs · Git
 
 ---
 
-### 📫 Let's Connect
+## 💼 Featured Projects
 
-I'm always open to conversations about data engineering, applied AI, or collaboration opportunities — feel free to reach out!
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI-Powered Code Reviewer**
+Multi-agent automated code review system built on LangGraph, orchestrating specialized agents for review workflows.
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Carbon Sequestration Estimation System**
+ML-based system for estimating carbon sequestration; research findings peer-reviewed and published in JRPS.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 AuthenticPlag AI**
+AI-driven tool for detecting plagiarism and verifying content authenticity.
+
+</td>
+<td width="50%" valign="top">
+
+**💧 Optimal Water Usage Prediction**
+Predictive model supporting efficient, data-driven water resource management.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Focus Areas
+
+`Data Pipeline Architecture` · `Applied Generative AI` · `RAG Systems` · `ML for Sustainability` · `Reinforcement Learning`
+
+---
+
+## 📫 Connect
+
+Open to conversations on data engineering, applied AI, and collaboration opportunities.
 
 <!--
-Tip: Add badges/links here for LinkedIn, email, portfolio site, etc. once you have the URLs handy, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-link)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:your-email)
+Add your links to complete this section — replace the placeholders below:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](your-portfolio-url)
 -->
+
+<div align="center">
+
+<sub>Thanks for stopping by — always happy to connect on data, AI, and everything in between.</sub>
+
+</div>
