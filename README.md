@@ -127,13 +127,13 @@ Predictive model supporting efficient, data-driven water resource management.
 <div align="center">
 
 Open to conversations on data engineering, applied AI, and collaboration opportunities.
-
 <!--
 Uncomment and fill in once you have your links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-2193B0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6DD5ED?style=for-the-badge&logo=vercel&logoColor=black)](your-portfolio-url)
 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theyaashkhatri/)
+[![Email](https://img.shields.io/badge/Email-2193B0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@theyashkhatri.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6DD5ED?style=for-the-badge&logo=vercel&logoColor=black)](https://theyashkhatri.dev/)
+
 
 <br/><br/>
 
