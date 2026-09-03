@@ -6,7 +6,6 @@
 
 <br/>
 
-Add your real links below by replacing YOUR_LINKEDIN / YOUR_WEBSITE / YOUR_EMAIL, then uncomment:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theyaashkhatri)
 [![Website](https://img.shields.io/badge/Website-2193B0?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://YOUR_WEBSITE](https://theyashkhatri.dev/))
 [![Email](https://img.shields.io/badge/Email-6DD5ED?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hello@theyashkhatri.dev)
