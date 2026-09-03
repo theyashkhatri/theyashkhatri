@@ -24,7 +24,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
 
-I'm a **Data Engineer at Edverciity** (by LiveTechSkills), where I design and maintain reliable ETL/ELT pipelines and applied ML/AI systems.
+I'm a **Data Engineer at Edverciity**, where I design and maintain reliable ETL/ELT pipelines and applied ML/AI systems.
 
 Alongside my professional work, I'm pursuing an **M.Tech in Data Science & Engineering at BITS Pilani** (WILP program), and I hold the **OCI 2025 Certified Generative AI Professional** credential.
 
